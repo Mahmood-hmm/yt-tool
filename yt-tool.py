@@ -172,9 +172,9 @@ while True :
         file_choice = input("Do you want a file for a play list ?  **answear with yes or no**\n")
         url = input ("Please enter URL: \n")
         if file_choice.lower() == "yes" :
-            os.system('yt-dlp -x --audio-format mp3 --audio-quality 0 -o "%(playlist_index)s - %(title)s.%(ext)s" ')
+            os.system('yt-dlp -x --audio-format mp3 --audio-quality 0 -o "%(playlist_index)s - %(title)s.%(ext)s" ' + url)
         elif file_choice.lower() == "no" :
-            os.system('yt-dlp -x --audio-format mp3 --audio-quality 0 -o - "%(title)s.%(ext)s"')
+            os.system('yt-dlp -x --audio-format mp3 --audio-quality 0 -o - "%(title)s.%(ext)s" ' + url)
     elif choice == "4" :
         break
     elif choice == "5" :
