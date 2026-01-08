@@ -1,0 +1,1 @@
+DOWNLOAD_PATH=/bin/python3 /home/mahmood/Downloads/11.py
