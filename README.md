@@ -21,4 +21,4 @@ This tool needs a yt-dlp // ffmpeg // pyhon
 
 `./yt-tool.py`
 
-<img width="1026" height="725" alt="image" src="https://github.com/user-attachments/assets/4ca4d21d-8896-4fab-a814-8839b7d4ebb8" />
+<img width="1026" height="725" alt="image" src="https://github.com/user-attachments/assets/dd97b53f-d18f-4cb5-8849-d3cb027eb8a7" />
