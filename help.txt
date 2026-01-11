@@ -1,0 +1,5 @@
+1) You can download videos by only type numbers and paste URL 
+2) All the download videos will be downloaded in py program file but you can chaing it from config file
+3) This project still new for now 
+
+

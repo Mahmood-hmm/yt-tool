@@ -1,0 +1,5 @@
+common errors :
+1) Internet turned off 
+2) The vedio is privet 
+3) Didn't install ffmpeg
+4) Using an old version of yt-dlp remember to update it
