@@ -26,5 +26,6 @@ This tool needs a yt-dlp // ffmpeg // pyhon
 2) Download python file
 3) Install yt-dlp and ffmpeg in exe and put in the same folder
 4) Run cmd in same folder then `type pip install rich`
-5) Type `python yt-tool.py` 
-<img width="1026" height="725" alt="image" src="https://github.com/user-attachments/assets/b1918130-8ff1-4776-8b27-9242b676cf76" />
+5) Type `python yt-tool.py`
+<img width="1026" height="725" alt="image" src="https://github.com/user-attachments/assets/ee6d5d40-9f35-4c5f-ac48-378a5d4beaf6" />
+<img width="882" height="777" alt="image" src="https://github.com/user-attachments/assets/47746069-419c-467d-a5aa-38c7e01abeb4" />
