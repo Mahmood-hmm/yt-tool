@@ -8,9 +8,24 @@ This tool needs a yt-dlp // ffmpeg // pyhon
 ## Installation for linux :
 1) Download ffmpeg and yt-dlp
 
+Ubuntu/debian:
+
 `sudo apt install ffmpeg`
 
 `sudo apt install yt-dlp`
+
+Fedora
+
+`sudo dnf install yt-dlp`
+
+`sudo dnf install ffmpeg`
+
+
+Arch
+
+`sudo pacman -S yt-dlp`
+
+`sudo pacman -S ffmpeg`
 
 2) Download tool
 
